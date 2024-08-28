@@ -1,0 +1,303 @@
+review_id,customer_id,product_id,review_text,review_rating
+REV0001,CUST001,PROD017,Film enjoy ground.,4
+REV0002,CUST001,PROD038,Have message million issue detail wait research.,1
+REV0003,CUST001,PROD010,Stand health face from into side.,4
+REV0004,CUST002,PROD014,Pull second central deep catch why join.,4
+REV0005,CUST002,PROD002,Purpose by seem them during between.,4
+REV0006,CUST002,PROD027,Low candidate goal play soldier thus.,3
+REV0007,CUST003,PROD033,Establish none base trade practice admit rich event.,2
+REV0008,CUST003,PROD010,Move also already on produce.,2
+REV0009,CUST003,PROD049,Way through field professor soon.,1
+REV0010,CUST003,PROD036,Form approach card and prove college language radio.,4
+REV0011,CUST003,PROD050,Cut indicate sing arm treatment force term.,1
+REV0012,CUST004,PROD017,Direction toward maybe sure strategy.,2
+REV0013,CUST004,PROD022,Bag too challenge design.,4
+REV0014,CUST004,PROD045,Down threat rule though politics nice lay.,2
+REV0015,CUST005,PROD011,Often grow land beautiful.,1
+REV0016,CUST005,PROD044,Employee national fine stop road blood nation.,1
+REV0017,CUST006,PROD046,Material rock blood bring.,4
+REV0018,CUST006,PROD020,Talk great future seek.,1
+REV0019,CUST006,PROD009,Visit hot garden town.,4
+REV0020,CUST006,PROD021,Notice nearly expert agreement spring.,5
+REV0021,CUST007,PROD008,Remain wear paper.,4
+REV0022,CUST008,PROD031,Parent everyone audience tough game.,5
+REV0023,CUST009,PROD037,Example test think old serious learn.,4
+REV0024,CUST009,PROD031,Could put example figure laugh as.,4
+REV0025,CUST010,PROD036,Nice year movie theory choose gas field.,1
+REV0026,CUST010,PROD033,Cover tonight trial begin fine.,2
+REV0027,CUST010,PROD041,Wall professional doctor law.,4
+REV0028,CUST011,PROD011,All wait bill relationship national follow.,2
+REV0029,CUST011,PROD028,Exactly important thought job southern yourself.,1
+REV0030,CUST012,PROD047,Old reality team white way life everyone.,2
+REV0031,CUST012,PROD004,Born increase able generation bar be strategy sit.,3
+REV0032,CUST012,PROD012,Evidence improve boy trade.,1
+REV0033,CUST013,PROD040,Many party want my sign financial.,5
+REV0034,CUST014,PROD043,Member her police loss purpose age.,2
+REV0035,CUST015,PROD014,Turn herself attack enjoy parent entire.,2
+REV0036,CUST015,PROD046,Forward detail management fly yet a glass very.,2
+REV0037,CUST015,PROD044,Traditional help property.,5
+REV0038,CUST015,PROD016,Without nice various along.,5
+REV0039,CUST016,PROD042,Left reach debate financial nice including.,4
+REV0040,CUST016,PROD046,Order scene series decide us recognize kid sense.,4
+REV0041,CUST016,PROD038,Company allow something interview well finish add.,4
+REV0042,CUST016,PROD020,House place front natural left.,1
+REV0043,CUST016,PROD006,Weight save can space.,1
+REV0044,CUST017,PROD035,Air billion pick strong wear ok.,4
+REV0045,CUST017,PROD029,Too watch quality buy.,2
+REV0046,CUST017,PROD013,Fast sense car.,4
+REV0047,CUST018,PROD002,Structure edge policy want enter air.,3
+REV0048,CUST018,PROD036,Political fact real can.,4
+REV0049,CUST018,PROD033,Far community religious born art.,2
+REV0050,CUST018,PROD035,I pretty history bring rock stock.,3
+REV0051,CUST018,PROD025,Quality stand bank decade.,4
+REV0052,CUST019,PROD003,Place drug his anything if success page.,1
+REV0053,CUST019,PROD001,None occur our.,2
+REV0054,CUST019,PROD033,Lead decide standard worker smile design could.,2
+REV0055,CUST019,PROD048,Fine draw defense treatment.,4
+REV0056,CUST019,PROD010,Surface knowledge enjoy Mr win important decide.,5
+REV0057,CUST020,PROD010,All image sound personal key laugh.,5
+REV0058,CUST020,PROD032,Watch wife forward arm.,1
+REV0059,CUST021,PROD025,Response since claim near spring dark set.,1
+REV0060,CUST021,PROD024,Box human role force.,3
+REV0061,CUST021,PROD049,Report tax strategy.,2
+REV0062,CUST021,PROD050,Expect building particular ever five later.,1
+REV0063,CUST022,PROD026,Can Democrat tonight but send behavior.,4
+REV0064,CUST022,PROD012,Quickly mission student book.,2
+REV0065,CUST022,PROD045,Generation home else help mother across.,2
+REV0066,CUST023,PROD021,Painting level side significant candidate executive possible.,2
+REV0067,CUST023,PROD031,Knowledge hit blood exactly final.,3
+REV0068,CUST024,PROD043,Defense less seek exactly might become.,3
+REV0069,CUST024,PROD011,Identify back west their go tax carry hand.,1
+REV0070,CUST025,PROD032,Adult media news not contain.,2
+REV0071,CUST026,PROD031,Operation statement effort.,2
+REV0072,CUST026,PROD002,Collection whatever data among morning environment it.,4
+REV0073,CUST026,PROD024,Arm item probably their.,4
+REV0074,CUST026,PROD009,Not inside watch soon.,2
+REV0075,CUST026,PROD004,Usually right dark nation family behavior exactly word.,4
+REV0076,CUST027,PROD009,Thought stop partner my each early.,2
+REV0077,CUST027,PROD034,Rule professor vote history.,4
+REV0078,CUST027,PROD004,For me worker gun behind them.,4
+REV0079,CUST028,PROD035,Bit environment upon company increase.,4
+REV0080,CUST028,PROD001,His toward nothing rather worry.,2
+REV0081,CUST028,PROD015,Young mission nature machine middle growth.,2
+REV0082,CUST029,PROD027,Plant happy style should college week friend.,3
+REV0083,CUST030,PROD010,Leave Mrs scientist part attention thought natural local.,3
+REV0084,CUST030,PROD007,More exactly role white another where step.,2
+REV0085,CUST030,PROD049,Open reality seven concern.,4
+REV0086,CUST031,PROD016,Day hit without.,1
+REV0087,CUST031,PROD046,Culture wear although suddenly.,3
+REV0088,CUST031,PROD019,Hot sister responsibility agency available its election.,5
+REV0089,CUST031,PROD018,Create international also region hundred.,5
+REV0090,CUST031,PROD047,Drive billion trip hand.,3
+REV0091,CUST032,PROD037,Senior standard official different.,5
+REV0092,CUST032,PROD029,Born likely ok forget.,1
+REV0093,CUST032,PROD018,Great light that through.,5
+REV0094,CUST032,PROD038,After fine clear positive song exactly.,2
+REV0095,CUST033,PROD013,Message service really.,1
+REV0096,CUST033,PROD036,Return condition how defense agent close he management.,4
+REV0097,CUST033,PROD036,Well at car recognize.,3
+REV0098,CUST033,PROD023,Father level thus I none.,4
+REV0099,CUST033,PROD027,Interview much institution into.,2
+REV0100,CUST034,PROD013,Radio much single describe none age.,2
+REV0101,CUST035,PROD007,Get air approach pay.,4
+REV0102,CUST035,PROD024,Prevent citizen doctor suddenly professional former.,5
+REV0103,CUST035,PROD047,Coach school candidate loss weight raise capital.,3
+REV0104,CUST035,PROD018,Detail just themselves bag.,4
+REV0105,CUST035,PROD004,Prepare glass every rate message drop impact.,4
+REV0106,CUST036,PROD026,Military friend three eight themselves trade help us.,5
+REV0107,CUST036,PROD024,Star prepare next.,1
+REV0108,CUST036,PROD032,Indicate listen since player difficult.,3
+REV0109,CUST036,PROD044,Research morning likely buy that go term affect.,5
+REV0110,CUST036,PROD046,Down former see even seek knowledge collection.,4
+REV0111,CUST037,PROD041,Song science fish American enough.,5
+REV0112,CUST037,PROD028,Follow sound movement.,5
+REV0113,CUST037,PROD004,Strong collection according security truth war.,3
+REV0114,CUST037,PROD017,Office conference despite end.,3
+REV0115,CUST038,PROD032,Price enjoy service team.,5
+REV0116,CUST038,PROD024,Control amount draw rock.,1
+REV0117,CUST038,PROD021,Administration something five they.,2
+REV0118,CUST039,PROD015,Pressure teach data someone right western list.,1
+REV0119,CUST040,PROD025,Man girl development my although always team.,4
+REV0120,CUST040,PROD024,Provide hard either peace allow.,4
+REV0121,CUST040,PROD006,Area power every gun follow free camera.,3
+REV0122,CUST041,PROD041,Matter white he though eat.,3
+REV0123,CUST042,PROD035,Nice reason moment easy current along.,3
+REV0124,CUST042,PROD009,Kid feel lead either figure why open.,3
+REV0125,CUST042,PROD005,Worry give leave operation teacher.,2
+REV0126,CUST042,PROD043,Nation generation agree.,3
+REV0127,CUST043,PROD039,By son own town.,5
+REV0128,CUST043,PROD043,Mention consumer score treatment.,5
+REV0129,CUST044,PROD032,Huge could also then.,2
+REV0130,CUST044,PROD021,Order up special base.,3
+REV0131,CUST044,PROD047,Nice sport last none see subject common.,5
+REV0132,CUST045,PROD003,Study about home present he one.,1
+REV0133,CUST045,PROD026,Beat former simple move financial.,2
+REV0134,CUST045,PROD019,Would traditional outside name reach determine.,2
+REV0135,CUST045,PROD006,Beyond nothing billion.,2
+REV0136,CUST046,PROD046,Too child south enough color country.,3
+REV0137,CUST046,PROD030,Remember follow knowledge though employee.,4
+REV0138,CUST046,PROD043,Lead risk while since suddenly.,1
+REV0139,CUST046,PROD044,Maintain gun this wrong.,4
+REV0140,CUST046,PROD009,Find born particular strong street success.,2
+REV0141,CUST047,PROD001,Challenge business rock throughout.,5
+REV0142,CUST047,PROD022,Animal network unit close once south key.,5
+REV0143,CUST048,PROD047,Break performance identify draw card fact.,4
+REV0144,CUST048,PROD007,Thought product model chair few attention rather if.,5
+REV0145,CUST048,PROD008,Choice act little deep boy.,3
+REV0146,CUST048,PROD019,Task guy within seem fight.,4
+REV0147,CUST049,PROD019,The into station popular read large born.,3
+REV0148,CUST049,PROD037,Million fire method who site realize once.,2
+REV0149,CUST050,PROD009,Game without town media table ok.,2
+REV0150,CUST050,PROD040,Size carry become whom decision skin.,1
+REV0151,CUST050,PROD017,Strategy brother later decade talk start.,4
+REV0152,CUST050,PROD024,News stop all our memory school million.,4
+REV0153,CUST050,PROD031,Together music particular religious fear.,1
+REV0154,CUST051,PROD039,Though bring common yourself life impact fish.,5
+REV0155,CUST051,PROD040,Box choice morning report themselves.,2
+REV0156,CUST052,PROD016,Cell including better.,2
+REV0157,CUST052,PROD027,Box final wife them near general child.,1
+REV0158,CUST052,PROD020,Music scientist move meeting foreign.,1
+REV0159,CUST052,PROD045,After oil especially worker foot wife know.,2
+REV0160,CUST053,PROD008,History they story may public whom skill.,3
+REV0161,CUST053,PROD009,Perhaps pass carry husband soldier responsibility answer star.,1
+REV0162,CUST053,PROD009,Let several amount thus character.,2
+REV0163,CUST054,PROD047,Million want him true.,2
+REV0164,CUST054,PROD001,Large big moment weight smile.,4
+REV0165,CUST054,PROD003,Safe whose thus staff.,3
+REV0166,CUST054,PROD007,Structure social enough author.,5
+REV0167,CUST055,PROD045,About grow surface president wrong.,5
+REV0168,CUST055,PROD025,Safe stop listen cover eight economy relationship they.,3
+REV0169,CUST055,PROD048,Know similar anything heavy both field.,2
+REV0170,CUST055,PROD006,Moment job across.,5
+REV0171,CUST056,PROD027,Right truth nearly someone site billion recent despite.,5
+REV0172,CUST056,PROD033,Discussion early claim social identify central like new.,1
+REV0173,CUST056,PROD015,Reduce available character follow friend senior.,4
+REV0174,CUST056,PROD041,Prove book true take.,1
+REV0175,CUST056,PROD040,Opportunity ball concern whatever art.,1
+REV0176,CUST057,PROD003,Claim western beyond method form.,1
+REV0177,CUST057,PROD006,Him today thing any.,1
+REV0178,CUST057,PROD013,Know place trouble this.,3
+REV0179,CUST057,PROD041,Interest own difficult part.,1
+REV0180,CUST057,PROD021,Explain quickly ten head.,1
+REV0181,CUST058,PROD025,Necessary yes argue however.,5
+REV0182,CUST058,PROD034,Special he series require take career take.,1
+REV0183,CUST058,PROD009,Generation west hot range physical teach lot.,4
+REV0184,CUST058,PROD040,While take mother specific land almost.,2
+REV0185,CUST058,PROD006,Leader he later lead ground none pick.,2
+REV0186,CUST059,PROD047,Majority road mention.,3
+REV0187,CUST059,PROD017,Decade century in world writer city.,2
+REV0188,CUST059,PROD043,Start shoulder economy market song bring throughout.,3
+REV0189,CUST059,PROD004,True suggest like box sport difficult far run.,4
+REV0190,CUST059,PROD046,Daughter political together blood ball meet behavior soon.,4
+REV0191,CUST060,PROD010,Score loss free thus per lawyer food.,2
+REV0192,CUST060,PROD005,His expert forward head.,1
+REV0193,CUST061,PROD025,Might who against value instead already pretty.,3
+REV0194,CUST061,PROD014,Rule build teach.,3
+REV0195,CUST062,PROD009,In many kid agree.,1
+REV0196,CUST062,PROD010,Remember single brother others before.,3
+REV0197,CUST062,PROD032,Business ahead air garden right.,2
+REV0198,CUST062,PROD039,Officer hear reduce throw still.,1
+REV0199,CUST062,PROD009,Education perhaps former evening view.,4
+REV0200,CUST063,PROD018,Thing create born test arm commercial.,1
+REV0201,CUST063,PROD045,Skill front everything several.,1
+REV0202,CUST063,PROD041,Throw arrive bring while first machine.,4
+REV0203,CUST063,PROD009,Affect capital life movement section.,5
+REV0204,CUST064,PROD027,Admit sit focus city radio matter because music.,3
+REV0205,CUST065,PROD030,Prevent care car meeting part song.,5
+REV0206,CUST066,PROD023,Door impact cause rather anyone evening.,4
+REV0207,CUST066,PROD035,Choose decade yourself idea.,2
+REV0208,CUST066,PROD037,Find military together since head finish.,4
+REV0209,CUST066,PROD009,Power student I other despite daughter.,1
+REV0210,CUST066,PROD024,Soon goal just likely enjoy.,1
+REV0211,CUST067,PROD048,Prove indicate with Democrat room Congress food.,4
+REV0212,CUST067,PROD039,Effect north turn whom box bag.,4
+REV0213,CUST067,PROD046,Off recent pressure tree agency.,5
+REV0214,CUST068,PROD049,Rich woman church forward reach court visit.,1
+REV0215,CUST068,PROD040,Woman consider international.,1
+REV0216,CUST069,PROD050,Music every especially remain carry order special important.,1
+REV0217,CUST070,PROD014,Rise indeed people.,1
+REV0218,CUST070,PROD036,Vote perform improve huge write line try.,2
+REV0219,CUST070,PROD013,Year prevent recognize.,3
+REV0220,CUST071,PROD010,Edge our work hard green style hotel.,1
+REV0221,CUST071,PROD019,Wrong current interesting system factor.,3
+REV0222,CUST072,PROD027,Once magazine including country attack government.,2
+REV0223,CUST072,PROD028,Education she around apply discussion father.,5
+REV0224,CUST072,PROD048,Example successful provide.,2
+REV0225,CUST072,PROD002,Hospital you visit minute point mean.,2
+REV0226,CUST073,PROD007,Religious accept door up yet.,3
+REV0227,CUST073,PROD032,Now take natural cost strong treat building.,1
+REV0228,CUST074,PROD050,Federal opportunity approach cup hear.,4
+REV0229,CUST074,PROD027,Police reflect maybe no store choice employee.,4
+REV0230,CUST075,PROD043,Goal quality follow mission several although her director.,4
+REV0231,CUST076,PROD036,Degree and remember night travel share perhaps.,4
+REV0232,CUST076,PROD034,Piece eight fly sit.,5
+REV0233,CUST076,PROD031,Brother final method.,2
+REV0234,CUST076,PROD028,Performance man pattern himself food agency fly appear.,4
+REV0235,CUST077,PROD022,Small adult Republican free position rock work quite.,1
+REV0236,CUST078,PROD005,Soon according later Mrs trip expert Democrat.,4
+REV0237,CUST079,PROD047,Here road whose particularly according.,3
+REV0238,CUST079,PROD007,Story vote exactly floor.,1
+REV0239,CUST080,PROD007,Manage get team person necessary free.,3
+REV0240,CUST080,PROD027,Wear laugh real represent shoulder.,5
+REV0241,CUST081,PROD015,Forget concern white any right.,2
+REV0242,CUST081,PROD010,Some matter two poor win difference.,2
+REV0243,CUST082,PROD011,Hair bed capital sea wonder health.,3
+REV0244,CUST082,PROD040,Live money able successful item two attack Mrs.,1
+REV0245,CUST083,PROD004,Help alone speech and little.,5
+REV0246,CUST083,PROD050,Difference region dark work.,4
+REV0247,CUST083,PROD050,Join report good well skill pass.,2
+REV0248,CUST084,PROD017,Go do occur scientist season.,5
+REV0249,CUST084,PROD035,Rock community reach wear without from this.,3
+REV0250,CUST084,PROD008,Concern measure box whole relate necessary.,2
+REV0251,CUST084,PROD036,Since be exactly affect some.,3
+REV0252,CUST084,PROD027,History program Mr investment guess reduce still.,1
+REV0253,CUST085,PROD019,Tax computer have brother he know remain.,4
+REV0254,CUST086,PROD006,Treat baby support professor true.,2
+REV0255,CUST086,PROD009,Third conference meeting player guess everything foot.,2
+REV0256,CUST087,PROD011,He agree under view consider over both.,5
+REV0257,CUST087,PROD033,Suggest actually kitchen accept.,3
+REV0258,CUST087,PROD005,Girl loss exactly everyone guess fast.,5
+REV0259,CUST087,PROD003,Development arrive full half speech trip.,4
+REV0260,CUST087,PROD014,Industry then with accept read clear interesting condition.,2
+REV0261,CUST088,PROD050,International spring thank sense.,1
+REV0262,CUST088,PROD034,Young focus understand fast include drop.,5
+REV0263,CUST088,PROD013,Religious number however film likely power mention.,2
+REV0264,CUST088,PROD013,North build bag police happen push.,2
+REV0265,CUST089,PROD014,Wonder total represent this whole American.,4
+REV0266,CUST090,PROD019,Democratic foot bed professor officer three.,5
+REV0267,CUST090,PROD004,Public foreign certain number this onto.,1
+REV0268,CUST090,PROD041,Mind study together indeed lay set hit senior.,2
+REV0269,CUST091,PROD012,Live theory price size high customer age.,5
+REV0270,CUST091,PROD033,Action try water.,3
+REV0271,CUST091,PROD029,Never us share provide ago administration approach.,5
+REV0272,CUST091,PROD018,Southern majority good service arrive direction.,5
+REV0273,CUST091,PROD012,Baby step well little.,5
+REV0274,CUST092,PROD042,Quickly trade all either situation.,4
+REV0275,CUST092,PROD006,Summer third compare society.,3
+REV0276,CUST092,PROD017,Consider help voice wife sit after.,2
+REV0277,CUST092,PROD002,Indeed pay lot necessary.,3
+REV0278,CUST093,PROD006,Plant without it hotel guess reduce.,3
+REV0279,CUST093,PROD046,Real couple girl decide available onto really realize.,5
+REV0280,CUST093,PROD023,Manage play couple.,4
+REV0281,CUST094,PROD033,City professor great difficult land.,4
+REV0282,CUST094,PROD048,Seven strategy call board both grow part.,2
+REV0283,CUST095,PROD015,Enjoy lead attention bring evening Mr consider.,1
+REV0284,CUST095,PROD034,Culture travel call find east still theory.,5
+REV0285,CUST095,PROD030,Throughout image ask officer.,4
+REV0286,CUST096,PROD020,Short fine community economy follow similar herself.,1
+REV0287,CUST096,PROD012,Art material international experience threat.,5
+REV0288,CUST096,PROD013,Myself peace human school.,2
+REV0289,CUST096,PROD043,Pressure result available protect pretty back bit note.,2
+REV0290,CUST097,PROD017,Toward effect view industry today suffer.,5
+REV0291,CUST097,PROD016,In happy than team program plant matter.,2
+REV0292,CUST097,PROD007,Room series camera oil able.,4
+REV0293,CUST097,PROD028,Community true food site test hope.,4
+REV0294,CUST098,PROD039,Hand way write notice.,5
+REV0295,CUST098,PROD005,Food on general dog speak.,1
+REV0296,CUST099,PROD049,Before career enjoy run understand anyone.,5
+REV0297,CUST099,PROD031,Six management live car bill.,2
+REV0298,CUST099,PROD038,Official still together management approach say.,3
+REV0299,CUST099,PROD006,Teacher alone ago hard edge.,4
+REV0300,CUST099,PROD040,Let still beautiful again business.,5
+REV0301,CUST100,PROD031,Green shake significant sure much teacher but.,4
+REV0302,CUST100,PROD010,Continue course rise coach expect answer remain.,3
