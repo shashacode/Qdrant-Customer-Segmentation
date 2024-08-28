@@ -1,0 +1,101 @@
+customer_id,age,gender,location,signup_date
+CUST001,52,Female,Robertsbury,2023-11-21
+CUST002,40,Male,Lake Heidimouth,2023-08-10
+CUST003,28,Male,South Stephenville,2024-05-25
+CUST004,63,Male,Brandyshire,2023-11-05
+CUST005,23,Female,Wrightberg,2023-03-10
+CUST006,54,Other,Williamsside,2023-04-04
+CUST007,43,Male,Reynoldston,2024-01-05
+CUST008,59,Male,Carrville,2024-07-04
+CUST009,62,Other,Lake Andre,2023-04-25
+CUST010,64,Other,Michaelborough,2024-01-31
+CUST011,50,Female,Port Brittanyland,2022-11-21
+CUST012,61,Female,Robinsontown,2023-08-29
+CUST013,38,Female,Matthewmouth,2023-03-13
+CUST014,50,Female,North Gregoryville,2023-02-17
+CUST015,23,Female,West Andreview,2024-01-24
+CUST016,43,Female,Jessicaborough,2023-09-03
+CUST017,30,Other,Port Ashley,2023-12-12
+CUST018,64,Female,Nicoleshire,2024-06-13
+CUST019,45,Other,Port Dave,2024-06-16
+CUST020,46,Male,North Julie,2024-01-26
+CUST021,64,Other,North Marktown,2023-01-01
+CUST022,42,Male,Savagestad,2023-03-07
+CUST023,54,Male,East Petertown,2024-08-13
+CUST024,37,Male,New Jennifer,2024-07-07
+CUST025,55,Female,Mcintoshburgh,2024-05-24
+CUST026,50,Other,Lake Martinburgh,2023-09-14
+CUST027,42,Other,West Christine,2023-10-27
+CUST028,53,Male,Bergershire,2024-03-14
+CUST029,27,Other,Port Patriciaton,2024-04-01
+CUST030,24,Other,New Connie,2023-08-12
+CUST031,35,Other,New Michael,2023-05-17
+CUST032,63,Male,South Alex,2023-05-31
+CUST033,50,Male,South Danielberg,2023-06-10
+CUST034,24,Other,Port Ethanville,2023-11-22
+CUST035,50,Male,Gabriellaville,2023-09-13
+CUST036,61,Other,Lake Christinaberg,2023-04-24
+CUST037,35,Male,New Maurice,2024-06-09
+CUST038,51,Other,Stephensfort,2023-03-26
+CUST039,22,Female,Jeffreymouth,2024-04-24
+CUST040,63,Male,Christinaland,2023-08-29
+CUST041,20,Male,Port Curtishaven,2022-11-01
+CUST042,26,Male,Martinport,2023-01-06
+CUST043,24,Other,New Don,2024-02-08
+CUST044,60,Female,Jacobfort,2024-02-03
+CUST045,41,Other,West Brandistad,2022-11-11
+CUST046,47,Other,South Anthony,2023-08-09
+CUST047,56,Female,New Deborah,2022-11-26
+CUST048,20,Male,Michaeltown,2023-07-19
+CUST049,38,Other,Lake Daniellemouth,2023-08-07
+CUST050,64,Female,Gentryborough,2024-08-14
+CUST051,61,Female,Gainesmouth,2024-02-26
+CUST052,50,Other,South Emma,2024-04-26
+CUST053,21,Male,Lopezberg,2024-01-08
+CUST054,61,Female,Santosport,2023-04-05
+CUST055,21,Male,Port Barbarabury,2022-11-19
+CUST056,57,Male,Jeffreychester,2024-04-18
+CUST057,22,Female,Michaelbury,2023-12-24
+CUST058,51,Other,Lake Tricia,2023-04-11
+CUST059,27,Male,Aprilbury,2022-10-02
+CUST060,50,Other,Jackiebury,2023-12-14
+CUST061,60,Other,Saratown,2024-05-11
+CUST062,37,Male,Chandlerborough,2024-08-23
+CUST063,64,Male,East Karen,2022-09-05
+CUST064,24,Other,Jasonhaven,2023-02-05
+CUST065,56,Male,Lyonshaven,2022-10-16
+CUST066,20,Male,West Jacqueline,2022-12-07
+CUST067,45,Other,New Michael,2022-11-02
+CUST068,45,Other,Aliciaville,2023-06-01
+CUST069,23,Other,Millerton,2023-09-22
+CUST070,44,Female,South Kaitlinport,2023-01-18
+CUST071,48,Male,Meganport,2022-12-31
+CUST072,51,Female,South Shannon,2024-07-23
+CUST073,21,Male,Whitetown,2022-12-04
+CUST074,29,Other,Lake Michaelside,2023-03-15
+CUST075,21,Female,East Normaborough,2022-11-16
+CUST076,45,Male,Port John,2023-12-11
+CUST077,33,Female,Cummingsstad,2022-08-27
+CUST078,18,Other,Mckayview,2022-11-27
+CUST079,45,Male,South Annaborough,2023-10-25
+CUST080,42,Male,East Elizabeth,2023-05-22
+CUST081,63,Female,Stephenshire,2024-02-25
+CUST082,36,Female,Port Connieport,2023-07-29
+CUST083,48,Male,South Stevenland,2023-07-01
+CUST084,61,Male,Joshuastad,2024-02-09
+CUST085,20,Male,West Shellyfort,2023-05-17
+CUST086,38,Female,Kennethberg,2024-02-27
+CUST087,19,Other,Armstrongview,2023-01-07
+CUST088,34,Female,Rebeccafurt,2024-06-09
+CUST089,25,Other,Josephview,2023-06-02
+CUST090,19,Other,North Tyler,2023-02-18
+CUST091,49,Female,South Rachelhaven,2024-06-20
+CUST092,38,Female,Lake Kellieport,2024-02-21
+CUST093,43,Female,Ashleyland,2023-10-06
+CUST094,19,Other,Lake Gregoryburgh,2023-12-24
+CUST095,18,Female,Mistybury,2022-11-06
+CUST096,65,Female,Hannahville,2023-05-08
+CUST097,61,Male,Port Judyport,2024-01-16
+CUST098,27,Other,East Jessicabury,2024-03-07
+CUST099,43,Male,South Jennifer,2024-08-23
+CUST100,59,Other,Shawnside,2022-10-27
