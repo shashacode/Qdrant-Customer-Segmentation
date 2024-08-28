@@ -1,5 +1,5 @@
 This is a project that shows how to carry out Customer Segmentation using Qdrant. 
-The dataset used is for a fictitious company consisting of Customer's details, Purchases, Reviews and Internet sessions. The dataset will be segmented using Qdrant which is useful for different business applications including Market targeting, Revenue Optimization and other business use cases.  
+The dataset used is for a fictitious company consisting of Customer's details, Purchases, Reviews and Internet sessions csv files. The aim is to segment customers data using Qdrant which is useful for different business applications including Market targeting, Revenue Optimization and other business use cases.  
 
 The Segmentation_Preprocess.ipynb file covers preprocessing of the dataset. This is to prepare the dataset to be used in Qdrant. The dataset is normalized to vector format.    
 
